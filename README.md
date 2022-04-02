@@ -1,5 +1,5 @@
 ```
-Fie > Settings >
+File > Settings >
   > Version Controt >
      > SSH Executable: Native
 ```

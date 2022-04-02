@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Apr 02 01:20:56 BOT 2022
+#Sat Apr 02 02:17:01 BOT 2022
 2.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menui00.xml
 5.set=ANDROID_RESOURCE
