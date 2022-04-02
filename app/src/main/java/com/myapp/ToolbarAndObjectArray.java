@@ -112,7 +112,7 @@ public class ToolbarAndObjectArray extends Activity {
                 //do whatever you want ...
                 TextView tv1 = (TextView) v;
                 tv1.setTextSize(30);
-                Log.d("Resizing (1)", tv1.getText().toString());
+                Log.d("Resizing (2)", tv1.getText().toString());
             }
         } catch (Exception e) {
             e.printStackTrace();
