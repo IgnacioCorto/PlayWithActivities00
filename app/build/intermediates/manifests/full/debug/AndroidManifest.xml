@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.myapp" >
+
+    <application
+        android:label="AppNameInSettings"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+
+        <!-- [Light|Black][.NoTitleBar[.Fullscreen]] -->
+
+        <activity
+            android:name="com.myapp.ToolbarAndObjectArray"
+            android:windowSoftInputMode="adjustResize" >
+
+            <!-- android:label="AppNameInLauncher03" -->
+            <!-- ToolbarAndList NoteEditor -->
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.myapp.NoteEditor"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+    </application>
+
+</manifest>

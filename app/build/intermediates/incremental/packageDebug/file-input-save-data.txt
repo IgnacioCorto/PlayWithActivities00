@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Apr 02 01:20:56 BOT 2022
+2.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menui00.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu_floating.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_ad.xml
+4.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\note_editor.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\item_note_object.xml
+4.set=DEX
+6.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_toolbar_and_list.xml
+10.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\item_note_string.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v3\\note_editor.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\dev\\PlayWithActivities00\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
